@@ -1,4 +1,4 @@
-baseURL = "http://manupascual.com/"
+baseURL = "https://manupascual.com/"
 languageCode = "en-us"
 title = "Manu Pascual"
 theme = "cactus"
