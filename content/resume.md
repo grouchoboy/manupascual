@@ -7,16 +7,48 @@ date: 2020-08-21T19:42:32+02:00
 
 ## Work expericence
 
-### [Stackscale](https://www.stackscale.com/)
+### [Stackscale](https://www.stackscale.com/) 
 
-I worked at [Stackscale](https://www.stackscale.com/) as a full stack
-developer...
+*November 2017 - March 2020*
 
-### Adsalsa
+I participated in the development of the internal applications for the company to manage the infrastructure and the automation of processes. Also, I contribute to creating a control panel for the clients in which they could manage their invoices, see their resources and open tickets with support.
 
-blablabla
+During this time I learned that, as a developer, knowing the business 
+domain can have a big impact on the success of the project.
+
+Technology used: Python, Django, MySQL, Celery, RabbitMQ, Javascript, Vue and Docker.
+
+### [Freemedia Internet (Adsalsa)](https://www.adsalsa.com/en/)
+
+*January 2017 - Octoboer 2017*
+
+I helped with the development of a web application to help the marketing department to do an analysis of the companies in Spain and Portugal.
+
+We made a system to get data of the companies from different sources and then the marketing team could search for companies by characteristics (number of employees, cities, ...) and offer different services.
+
+Technologoy used: PHP, Symfony, MySQL, Docker, RabbitMQ and ElasticSearch.
+
+### Building Sciences and Urbanism Deparment (University of Alicante)
+
+*March 2016 - December 2016*
+
+The research department wanted to go to different places around the world and interview with people. But, that was expensive in money and resources. To resolve the issue, we develop a system in which the researchers could draw an area on a map and select different sources (Twitter, Instragram, Google places,...). Then, the application would start to retrieve data about the area. The data was stored in Elasticsearch to be searchable. 
+
+My tasks consisted to investigate and implement the communications with the third-party APIs, store the data and make the interface for the research team to see the results.
+
+Technology used: Java, Spring, ElasticSearch, ActiveMQ and Javascript.
 
 ## Skills
 
-blablablb
+* Proficiency in Python, Django and Javascript.
+
+* Ability to understand the tools I use, e.g. how to avoid the problem of n+1 queries using an ORM. 
+
+* Knowledge of testing and quality code tools ([pytest](https://docs.pytest.org/en/latest/), [automatic formatters](https://github.com/psf/black), [code complexity](https://radon.readthedocs.io/en/latest/index.html)).
+
+* Knowledgeable at learning new languages.
+
+* Good level of Git version control system.
+
+* Team player.
 

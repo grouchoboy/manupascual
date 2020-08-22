@@ -13,6 +13,8 @@ decided to leave my job and focus some time with the goal of improve
 my English. My initial idea included moving to London, but the Covid-19
 situation made me rethink the plan.
 
+If you are interested in my resume, you can take a look [here](/resume)
+
 ## Contact
 
 Feel free to [send me an email](mailto:manu.pascual.luna@gmail.com) if 
