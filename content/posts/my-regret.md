@@ -1,7 +1,7 @@
 ---
 title: "My Biggest Regret as a Software Developer"
 date: 2020-09-05T16:56:12+02:00
-draft: true
+draft: false
 ---
 
 My biggest regret as a software developer is not been able to learn
