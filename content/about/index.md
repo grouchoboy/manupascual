@@ -7,11 +7,8 @@ date: 2020-08-13T19:39:10+02:00
 
 Hello there, I'm Manu.
 
-I'm a software developer from Elche (Spain). I worked as a full stack
-developer at [Stackscale](https://stackscale.com). A few months ago I
-decided to leave my job and focus some time with the goal of improve
-my English. My initial idea included moving to London, but the Covid-19
-situation made me rethink the plan.
+I'm a software developer from Elche (Spain). I work as a full stack developer
+at [Nouss Intelligence](https://www.noussintelligence.com/).
 
 If yo want some inspiration about what to read next you could take a
 look to my [reading list](/reading).
